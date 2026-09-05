@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:admin@kedirisaja.id">
-    <img src="https://img.shields.io/badge/Email-admin%40kedirisaja.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:culturesimpleofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-culturesimpleofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://absensi.kedirisaja.id">
     <img src="https://img.shields.io/badge/Live%20Demo-AbsenKita%20PWA-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
@@ -83,7 +83,7 @@ Beberapa sistem komersial berskala produksi yang telah berhasil dikembangkan:
 
 <div align="center">
   <p>Tertarik berdiskusi seputar proyek perangkat lunak, arsitektur sistem, atau kolaborasi teknologi?</p>
-  <a href="mailto:admin@kedirisaja.id">
-    <img src="https://img.shields.io/badge/Email-admin%40kedirisaja.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:culturesimpleofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-culturesimpleofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
