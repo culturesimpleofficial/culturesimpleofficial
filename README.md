@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=190&section=header&text=Culture%20Simple%20Official&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Biometric%20Enterprise%20Software%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+  <img src="banner.svg" alt="Culture Simple Official Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -39,12 +39,27 @@
 
 ---
 
-### 📊 Statistik Aktivitas GitHub
+### 📊 Statistik & Metrik Rekayasa
 
 <div align="center">
-  <!-- Kartu Statistik (Menghitung Otomatis Commit dari Private Repositories) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=culturesimpleofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culturesimpleofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Languages" height="165"/>
+  <img src="https://img.shields.io/badge/Total_Repositories-11_Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Aktivitas_Tahunan-150%2B_Commits-success?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Kepatuhan-UU_PDP_No.27%2F2022-0A84FF?style=for-the-badge&logo=shield" alt="Compliance"/>
+  <img src="https://img.shields.io/badge/Status_Sistem-Production_Ready-22C55E?style=for-the-badge&logo=checkmarx" alt="Production Ready"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Indikator | Nilai / Standar | Rincian Arsitektur |
+|---|:---:|---|
+| **Tipe Repositori** | `Proprietary & Private` | Keamanan aset kode sumber komersial terlindungi penuh |
+| **Produktivitas** | `Aktif Harian` | Terus merilis pembaruan, pengujian fitur, & keamanan |
+| **Integritas Biometrik** | `Private Cloud S3` | Akses foto bertanda waktu *Signed URL* (TTL 15 menit) |
+| **Arsitektur Penyimpanan** | `Zero-Orphan Storage` | Penghapusan otomatis file biometrik lama saat registrasi ulang |
+| **Infrastruktur Produksi** | `VPS + Nginx + Cloudflare` | Proteksi serangan DDoS, SSL TLS 1.3, & kompresi aset |
+
 </div>
 
 ---
@@ -67,14 +82,8 @@ Beberapa sistem komersial berskala produksi yang telah berhasil dikembangkan:
 ### 📬 Hubungi Saya / Connect
 
 <div align="center">
-  <p>Tertarik berdiskusi seputar proyek perangkat lunak atau kolaborasi teknologi?</p>
+  <p>Tertarik berdiskusi seputar proyek perangkat lunak, arsitektur sistem, atau kolaborasi teknologi?</p>
   <a href="mailto:admin@kedirisaja.id">
     <img src="https://img.shields.io/badge/Email-admin%40kedirisaja.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
