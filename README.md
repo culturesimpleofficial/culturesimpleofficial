@@ -64,18 +64,54 @@
 
 ---
 
-### 💼 Solusi & Proyek Unggulan (Enterprise Solutions)
+### 💼 Solusi & Rekayasa Perangkat Lunak Unggulan (Featured Enterprise Solutions)
 
-Beberapa sistem komersial berskala produksi yang telah berhasil dikembangkan:
+<details open>
+<summary><b>1. 🏢 AbsenKita — Enterprise Biometric & Geofencing Workforce Platform</b></summary>
+<br/>
 
-#### 1. 🏢 AbsenKita — Sistem Presensi Biometrik & Geofencing PWA
-* **Arsitektur:** Laravel 12, PostgreSQL Supabase, MediaPipe WASM, Tailwind CSS 4, Android TWA.
-* **Fitur Utama:** Deteksi keaktifan wajah 4-langkah (*liveness*), validasi radius GPS (*Haversine*), shift malam lintas hari (*cross-midnight*), proteksi privasi biometrik (*UU PDP*), dan *multi-role audit view*.
-* **Status:** *Production Ready & Deployed on VPS*.
+> **Sistem presensi terdistribusi berkecepatan tinggi dengan validasi biometrik multi-tahap, dirancang untuk instansi modern dengan mobilitas tinggi.**
 
-#### 2. 🛡️ Enterprise Data Retention & Storage Engine
-* **Arsitektur:** AWS S3 Protocol, Supabase Storage API, PL/pgSQL Trigger Isolation.
-* **Fitur Utama:** Pipeline pembersihan otomatis data biometrik lama (*zero-orphan storage*) dan arsitektur penghapusan cerdas (*smart soft-deactivation*) untuk menjaga integritas pembukuan audit.
+- 🎯 **Domain:** Workforce Management, Biometric AI Vision, Geofence Enforcement, Multi-Branch Operations.
+- ⚡ **Teknologi Utama:** `Laravel 12` • `PHP 8.4` • `Google MediaPipe WASM` • `PostgreSQL (Supabase)` • `Tailwind CSS 4` • `Android TWA (PWA)`
+- 🛡️ **Sorotan Inovasi Rekayasa:**
+  - **Client-Side Edge Inference:** Pemrosesan 468 titik tengara wajah dilakukan langsung di browser pengguna menggunakan WebAssembly—menjamin respon instan tanpa beban komputasi video di server.
+  - **Anti-Spoof Liveness Engine:** Algoritma interaktif 4 gerakan acak (kedip mata, buka mulut, toleh kanan/kiri) guna menangkal serangan foto cetak, gawai palsu, dan video rekaman.
+  - **Cross-Midnight Shift Resolver:** Algoritma penanggalan kerja cerdas untuk shift malam lintas hari (contoh: 21.00 – 05.00) tanpa merusak konsistensi hari kalender riil.
+  - **Multi-Role Executive Governance:** Pembagian hak akses berjenjang (Karyawan, Administrator Operasional, hingga Pimpinan Eksekutif dengan audit view transparan).
+- 🌐 **Status Sistem:** `Production Ready & Deployed on VPS` • [🔗 Tinjau Live Platform](https://absensi.kedirisaja.id)
+
+</details>
+
+<details open>
+<summary><b>2. 🛡️ Sovereign Biometric Vault & Zero-Orphan Storage Architecture</b></summary>
+<br/>
+
+> **Arsitektur penyimpanan berkas biometrik berstandar privasi tinggi sesuai regulasi UU Perlindungan Data Pribadi (UU PDP No. 27 Tahun 2022).**
+
+- 🎯 **Domain:** Data Privacy, Cloud Object Storage (S3 Protocol), Database Trigger Isolation, Enterprise Data Retention.
+- ⚡ **Teknologi Utama:** `Supabase S3 Storage Engine` • `PL/pgSQL Trigger Shield` • `Cryptographic Temporary Signed URLs`
+- 🛡️ **Sorotan Inovasi Rekayasa:**
+  - **Fail-Closed Security Vault:** Berkas biometrik terisolasi penuh dalam *private bucket*; hanya dapat diakses melalui URL bertanda waktu dengan batas kedaluwarsa ketat (15 menit).
+  - **Zero-Orphan Pipeline:** Sistem deteksi dan pembersihan otomatis berkas foto wajah lama saat registrasi ulang, mencegah pembengkakan kuota dan sampah data cloud storage.
+  - **Smart Deactivation Policy:** Penghapusan permanen (*hard delete*) hanya diizinkan untuk data draf tanpa riwayat, sementara akun berriwayat dikunci melalui *soft deactivation* guna melindungi integritas pembukuan audit perusahaan.
+
+</details>
+
+<details open>
+<summary><b>3. ⚡ High-Availability Cloud Infrastructure & Reverse-Proxy Gateway</b></summary>
+<br/>
+
+> **Topologi infrastruktur server produksi tahan banting dengan optimasi performa tinggi, proteksi serangan siber, dan orkestrasi deploy instan.**
+
+- 🎯 **Domain:** Cloud Infrastructure, DevOps, Cyber Security & WAF, Zero-Downtime Pipeline.
+- ⚡ **Teknologi Utama:** `Ubuntu 24.04 LTS` • `Nginx Web Server` • `Cloudflare Edge Network` • `PHP 8.4-FPM` • `Bash CI/CD`
+- 🛡️ **Sorotan Inovasi Rekayasa:**
+  - **Edge Shielding:** Penerapan Cloudflare Proxy WAF untuk mitigasi serangan DDoS, pemblokiran bot jahat, dan enkripsi SSL TLS 1.3 otomatis.
+  - **Automated Deployment Pipeline:** Skrip rsync cerdas dengan mekanisme *hot-cache invalidation* (config, routes, views) dan *zero downtime reload*.
+  - **Integrated Live Support System:** Saluran perpesanan real-time antara karyawan dan administrator di dalam sistem untuk mitigasi kendala operasional seketika.
+
+</details>
 
 ---
 
