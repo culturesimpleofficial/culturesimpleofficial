@@ -6,9 +6,7 @@
   <a href="mailto:culturesimpleofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-culturesimpleofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://absensi.kedirisaja.id">
-    <img src="https://img.shields.io/badge/Live%20Demo-AbsenKita%20PWA-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-  </a>
+  <img src="https://img.shields.io/badge/Solutions-Enterprise%20Grade-0A84FF?style=for-the-badge" alt="Enterprise Solutions"/>
   <img src="https://img.shields.io/badge/Focus-High--Performance%20Web%20%26%20Mobile%20Apps-success?style=for-the-badge" alt="Focus"/>
 </div>
 
@@ -79,7 +77,7 @@
   - **Anti-Spoof Liveness Engine:** Algoritma interaktif 4 gerakan acak (kedip mata, buka mulut, toleh kanan/kiri) guna menangkal serangan foto cetak, gawai palsu, dan video rekaman.
   - **Cross-Midnight Shift Resolver:** Algoritma penanggalan kerja cerdas untuk shift malam lintas hari (contoh: 21.00 – 05.00) tanpa merusak konsistensi hari kalender riil.
   - **Multi-Role Executive Governance:** Pembagian hak akses berjenjang (Karyawan, Administrator Operasional, hingga Pimpinan Eksekutif dengan audit view transparan).
-- 🌐 **Status Sistem:** `Production Ready & Deployed on VPS` • [🔗 Tinjau Live Platform](https://absensi.kedirisaja.id)
+- 🛡️ **Status Sistem:** `Active in Enterprise Production (Private Deployment)`
 
 </details>
 
